@@ -14,4 +14,4 @@
 - ⚡ Fun fact: ...-->
 - My Projects are:<br/>
 - 🚶‍♂️<a href="https://github.com/Shruthirao04/Man-Walking-In-Rain">Man-Walking-In-Rain</a>
-- 🚶‍♂️<a href="https://github.com/Shruthirao04/FeedIndia>Feed India</a>
+- 🚶‍♂️<a href="https://github.com/Shruthirao04/FeedIndia">Feed India</a>
