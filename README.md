@@ -12,5 +12,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-- My Projects are:
+- My Projects are:<br/>
 -🚶‍♂️🚶‍♂️<a href="https://github.com/Shruthirao04/Man-Walking-In-Rain">Man-Walking-In-Rain (OpenGL Project)</a>
