@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ## Shruthi Here
 
@@ -13,4 +13,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 - My Projects are:<br/>
--🚶‍♂️🚶‍♂️<a href="https://github.com/Shruthirao04/Man-Walking-In-Rain">Man-Walking-In-Rain (OpenGL Project)</a>
+- 🚶‍♂️<a href="https://github.com/Shruthirao04/Man-Walking-In-Rain">Man-Walking-In-Rain (OpenGL Project)</a>
